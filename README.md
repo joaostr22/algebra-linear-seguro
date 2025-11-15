@@ -17,5 +17,5 @@ Realizei análises de similaridade utilizando matrizes, desenvolvi modelos de cl
 
 ## 📦 Como instalar
 ```bash
-git clone https://github.com/joaostr22/preferencias-musicais-analise.git
-cd preferencias-musicais-analise
+git clone https://github.com/joaostr22/algebra-linear-seguro.git
+cd algebra-linear-seguro
